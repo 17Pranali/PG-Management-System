@@ -61,9 +61,4 @@ PG Management System is a web-based application developed using Spring Boot, HTM
 
 
 
-## 🚀 How to Run the Project
-1. Clone the repository:  
-   ```sh
-   git clone https://github.com/your-username/pg-management.git
-   cd pg-management
 
