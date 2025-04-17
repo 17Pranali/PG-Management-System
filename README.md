@@ -44,6 +44,9 @@ PG Management System is a web-based application developed using Spring Boot, HTM
 ### Guest Dashboard
 ![Guest Dashboard](screenshots/guest_dashboard.jpg)
 
+### Add Details
+![Admin ](screenshots/add_details.jpg)
+
 
 ## 🚀 How to Run the Project
 1. Clone the repository:  
