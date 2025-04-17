@@ -59,6 +59,9 @@ PG Management System is a web-based application developed using Spring Boot, HTM
 ### Manage Properties
 ![Manage Properties](screenshots/manage_properties.jpg)
 
+### System Analystics
+![System Analytics](screenshots/system_analytics.jpg)
+
 
 ## 🚀 How to Run the Project
 1. Clone the repository:  
