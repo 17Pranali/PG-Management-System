@@ -15,7 +15,7 @@ PG Management System is a web-based application developed using Spring Boot, HTM
 ## 🔑 User Credentials
 ### **Admin**
 - **Email:** admin123@gmail.com  
-- **Password:** admin  
+- **Password:** admin@123 
 
 ### **Owner**
 - **Email:** owner@gmail.com  
@@ -52,6 +52,9 @@ PG Management System is a web-based application developed using Spring Boot, HTM
 
 ### Manage Locations
 ![Manage Location](screenshots/manage_locations.jpg)
+
+### Manage Owner
+![Manage Owner](screenshots/manage_owners.jpg)
 
 
 ## 🚀 How to Run the Project
